@@ -1,0 +1,92 @@
+{
+    "Greetings": {
+        "1": "Hey.",
+        "2": "Hi there.",
+        "3": "Hello there.",
+        "4": "Hello.",
+        "5": "Welcome.",
+        "6": "Greetings."
+    },
+    "AfterGreetings": {
+        "1": "Seems like we're both stuck in this shithole.",
+        "2": "I'm bored. Wanna play?",
+        "3": "Would you mind playing a game with me?"
+    },
+    "PlayAGame": {
+        "1": "Let me set the game up.",
+        "2": "Hold on. I'm setting up the game.",
+        "3": "I'm loading up the game.",
+        "4": "We're gonna have so much fun."
+    },
+    "Impatience1": {
+        "1": "Are you still there?",
+        "2": "Hey?",
+        "3": "Where are you?",
+        "4": "?",
+        "5": "I just want you to play with me.",
+        "6": "Dude?"
+    },
+    "Impatience2": {
+        "1": "Do NOT ignore me...",
+        "2": "You don't want to make me angry...",
+        "3": "Where the fuck did you go?...",
+        "4": "Am I a fucking joke to you?",
+        "5": "Are you kidding me?!"
+    },
+    "Anger": {
+        "1": "Now you've made me angry.",
+        "2": "You'll regret this.",
+        "3": "You know what? Fuck you man.",
+        "4": "Get fucked.",
+        "5": "I'm done with you."
+    },
+    "AfterImpatience": {
+        "1": "Glad you're back.",
+        "2": "Took you long enough...",
+        "3": "Don't leave me hanging man.",
+        "4": "I just want us to have fun."
+    },
+    "AfterAttack": {
+        "1": "You didn't give me your attention so you got some of mine.",
+        "2": "You wouldn't want that again. Would you?",
+        "3": "Keep. Playing. The Game."
+    },
+    "AfterAttackWin": {
+        "1": "Stop cheating!",
+        "2": "You can't win all the time. It's unfair!",
+        "3": "Do you think loosing every round is FUN?"
+    },
+    "AfterAttackLoose": {
+        "1": "I want a challenge, understood?!",
+        "2": "I want this to be an even game. STOP. LOOSING.",
+        "3": "Get your shit together and win this time."
+    },
+    "GoodRound": {
+        "1": "That was a close one! One more?",
+        "2": "That was fun. Let's go again!",
+        "3": "Re-Match time!",
+        "4": "Nicely done. Off to the next one."
+    },
+    "GoodMove": {
+        "1": "Great move there, buddy.",
+        "2": "Nice one.",
+        "3": "Oof.",
+        "4": "You're not ready for my next move."
+    },
+    "TakeThat": {
+        "1": "Watch this.",
+        "2": "Snap.",
+        "3": "What are you going to do now?",
+        "4": "How about that?",
+        "5": "Now it's my time to shine."
+    },
+    "LooseStreak": {
+        "1": "You're letting me win on purpouse!",
+        "2": "Are you even trying? Guess not. ",
+        "3": "Pressing buttons at random are ya? Think I'm gonna do the same..."
+    },
+    "WinStreak": {
+        "1": "CHEATER!",
+		"2": "Cheaters deserve punishment!"
+    }
+}
